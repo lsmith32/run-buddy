@@ -1,6 +1,7 @@
 * {
-    margin: 0;
+    margin:0;
     padding: 0;
+    box-sizing: border-box;
 }
 /*Made with love text*/
 body {
@@ -58,9 +59,4 @@ footer div {
 }
 footer a {
     color:#024e76
-}
-* {
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
 }
