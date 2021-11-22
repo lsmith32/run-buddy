@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/*Made with love text*/
+body {
+    color: #39a6b2;
+    font-family: Helvitica, Arial, sans-serif;
+}
+/*Padding*/
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+}
+/*RUN BUDDY text*/
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;
+}
+/*WWD,WYD,YT,RO text*/
+header a {
+    text-decoration: none;
+    color:#fce138;
+}
+/*WWD,WYD,YT,RO block*/
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+/*WWD,WYD,YT,RO block*/
+header nav ul li {
+    display: inline;
+}
+/*WWD,WYD,YT,RO text*/
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
